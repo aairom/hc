@@ -2,7 +2,7 @@
 
 ## Guestbook Hybrid Deployment
 
-This example shows how to build a simple hybrid multi-tier web application using Open Shift and IBM Cloud services. 
+This example shows how to build a simple hybrid multi-tier web application using ICP and IBM Cloud services. 
 
 The application consists of a web front end, Redis master for storage, and replicated set of Redis slaves, all for which we will create Kubernetes deployments, pods, and services and an sentiment analyzer service which is connected to IBM Watson Tone Analyzer service on IBM Cloud
 
